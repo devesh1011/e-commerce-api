@@ -1,0 +1,26 @@
+{
+  "name": "e-commerce-api",
+  "version": "1.0.0",
+  "description": "this is the api for an ecommerce site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/devesh1011/e-commerce-api.git"
+  },
+  "author": "Devesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devesh1011/e-commerce-api/issues"
+  },
+  "homepage": "https://github.com/devesh1011/e-commerce-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.9",
+    "express": "^4.18.3",
+    "multer": "^1.4.5-lts.1"
+  }
+}
